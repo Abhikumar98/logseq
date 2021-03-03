@@ -1,8 +1,4 @@
 #+TITLE: Mar 3rd, 2021
 
 ** some thing
-*** [[hello]]
-**** jknkjn
-***** j[[something]]
-*****
-*****
+***
